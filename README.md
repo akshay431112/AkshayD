@@ -40,10 +40,12 @@
 
 ## 📫 Connect with Me
 
-* 📧 Email: **[akshay.dandge4311@gmail.com](mailto:akshay.dandge4311@gmail.com)**
-* 💼 LinkedIn: [linkedin.com/in/akshaydandge](https://www.linkedin.com/in/akshaydandge)
+- 📧 Email: [akshay431112@gmail.com](mailto:akshay431112@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/akshayd04](https://www.linkedin.com/in/akshayd04)
+- 🧑‍💻 GitHub: [github.com/akshay431112](https://github.com/akshay431112)
+
 * 🧑‍💻 Portfolio: https://akshay431112.github.io/
-* Github: github.com/akshay431112
+
 ---
 
 ## ⚡ GitHub Stats
