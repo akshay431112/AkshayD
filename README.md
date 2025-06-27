@@ -42,8 +42,8 @@
 
 * 📧 Email: **[akshay.dandge4311@gmail.com](mailto:akshay.dandge4311@gmail.com)**
 * 💼 LinkedIn: [linkedin.com/in/akshaydandge](https://www.linkedin.com/in/akshaydandge)
-* 🧑‍💻 Portfolio: [github.com/akd](https://github.com/akd)
-
+* 🧑‍💻 Portfolio: https://akshay431112.github.io/
+* Github: github.com/akshay431112
 ---
 
 ## ⚡ GitHub Stats
