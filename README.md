@@ -1,8 +1,3 @@
-Here's a professional and feature-rich `README.md` template for your GitHub profile. You can copy this into your GitHub **profile README repository** (`akd/akd`) or any other personal repo:
-
----
-
-````markdown
 # 👋 Hi there, I'm Akshay Devidas Dandge!
 
 🚀 System Administrator | 🛠️ DevOps Support Engineer | 💡 Tech Explorer
@@ -62,13 +57,5 @@ Here's a professional and feature-rich `README.md` template for your GitHub prof
 
 ```
 
----
-
-Would you like me to:
-- Customize it with links to your actual GitHub projects?
-- Generate the markdown as a ZIP file?
-- Help you **set it up as your profile README repo**?
-
-Let me know!
-```
+-
 
