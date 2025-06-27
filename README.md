@@ -48,6 +48,15 @@
 
 ## ⚡ GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshay431112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Akshay's GitHub stats" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay431112&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
+</p>
+
+
 
 
 
