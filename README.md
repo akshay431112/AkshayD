@@ -49,12 +49,21 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay431112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Akshay's GitHub stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshay431112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay431112&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay431112&layout=compact&theme=tokyonight" width="400" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshay431112&theme=tokyonight&hide_border=false" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshay431112&theme=tokyonight" />
+</p>
+
 
 
 
