@@ -42,7 +42,7 @@
 
 - 📧 Email: [akshay431112@gmail.com](mailto:akshay431112@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/akshayd04](https://www.linkedin.com/in/akshayd04)
-- 🧑‍💻 GitHub: [github.com/akshay431112](https://github.com/akshay431112)
+- 🧑‍💻 GitHub: [github.com/akshay431112](https://akshay431112.github.io/)
 
 * 🧑‍💻 Portfolio: https://akshay431112.github.io/
 
